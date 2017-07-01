@@ -25,7 +25,14 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
-#description{
+.description {
   font-family: Helvetica;
   font-size: 14px;
+}
+#mini {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("C:/projects/Hello World/broadway/resources/images/the-flatiron-building.png");
 }
