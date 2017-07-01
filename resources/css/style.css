@@ -36,3 +36,12 @@ h3 {
   color: white;
   background-image: url("C:/projects/Hello World/broadway/resources/images/the-flatiron-building.png");
 }
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+#copywrite{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
